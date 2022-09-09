@@ -8,6 +8,8 @@ with no remainder. Thus, item 1 is in all the baskets, item 2 is in all fifty of
 even-numbered baskets, and so on. Basket 12 consists of items {1, 2, 3, 4, 6, 12},
 since these are all the integers that divide 12.
 
+[![View A-PRIORI-Algorithm on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/117380-a-priori-algorithm)
+
 The Code Output:
  Freqent items with support threshold 5 are : 
  L1=
