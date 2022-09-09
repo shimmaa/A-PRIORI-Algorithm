@@ -1,5 +1,5 @@
 # A-PRIORI-Algorithm
-This is the Problems 6.2.6(a) from the “Mining Massive Data set” text book (Page 199) solution 
+This is the Problems 6.2.6(a) from the “Mining Massive Data set” text book (Page 199) programmatic solution 
 
 Apply the A-Priori Algorithm with support threshold 5 to the data of:
 Exercise 6.1.1 : Suppose there are 100 items, numbered 1 to 100, and also 100
